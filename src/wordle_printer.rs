@@ -1,4 +1,4 @@
-use super::WordleBoard;
+use super::wordle::WordleBoard;
 use colored::Colorize;
 
 pub fn print_board(board: &WordleBoard) {
